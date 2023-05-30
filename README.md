@@ -43,5 +43,5 @@ hw
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
 
-Resources used:  AskBCS, Tutor,  Chatgpt,  JavaScript.info, W3 Schools, StackOverflow, Pltoly.com
+Resources used:  AskBCS, Tutor,  Chatgpt,  JavaScript.info, W3 Schools, StackOverflow, Pltoly.com, freecodecamp
 
