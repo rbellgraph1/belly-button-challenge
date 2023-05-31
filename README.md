@@ -1,5 +1,6 @@
 # belly-button-challenge
 
+github pages:   https://rbellgraph1.github.io/belly-button-challenge/
 
 Instructions
 Complete the following steps:
